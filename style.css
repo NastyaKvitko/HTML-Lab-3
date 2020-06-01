@@ -1,0 +1,40 @@
+.wrap{
+	margin: 0px auto;
+	background-color: #eee;
+	width: 1000px;
+	height: 1000px;
+	border: 10px solid #000;
+}
+.size{
+	height: 100px;
+	width: 100px;
+
+}
+.white{
+	background-color: white;
+}
+.black{
+	background-color: black;
+}
+.col-1{
+	float: 	left;
+}
+
+.col-2{
+	float: 	left;
+}
+.grey{
+	font-size: 45px;
+	text-align: center;
+	background: grey;
+}
+.deg{
+	transform: rotate(180deg);
+}
+img{
+	height: 100px;
+}
+.picture{
+	height: 100px;
+	padding-left: 25px;
+}
